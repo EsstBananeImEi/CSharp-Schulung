@@ -7,7 +7,7 @@ Schulungszeiten:
 	Folgetage	09:00 - 16:00 Uhr
 
 Inhalte:
-	### Einführung .NET Entwicklung
+	### Einfhrung .NET Entwicklung
 		- .NET Framework
 		- Assembly
 		- Namespace
@@ -35,7 +35,7 @@ Inhalte:
 		- Syntax try-catch
 		- Exception Klasse
 		- Eigene Exception Klasse
-	### ADO.NET Überblick
+	### ADO.NET berblick
 		- Datenzugriffsschichten
 		- Architektur ADO.NET
 		- Typed DataSet
@@ -44,8 +44,8 @@ Inhalte:
 	### Design Patterns
 		- Software-Architektur
 		- GoF Patterns
-		- Wie Entwurfsmuster Entwurfsprobleme lösen
-		- Wie man ein Entwurfsmuster auswählt
+		- Wie Entwurfsmuster Entwurfsprobleme lsen
+		- Wie man ein Entwurfsmuster auswhlt
 		- Wie man ein Entwurfsmuster verwendet
 	### Interfaces
 		- Definition von Interfaces
@@ -61,9 +61,9 @@ Inhalte:
 	### Generics
 		- Generische Datentypen
 		- Entwerfen und Implementieren von Generics
-		- Contraints für Parameter
+		- Contraints fr Parameter
 	### Parallel Computing
-		- Überblick Multithreading
+		- berblick Multithreading
 		- Thread Cancelation
 		- Barrier
 		- Task Parallel Library (TPL)
