@@ -1,7 +1,7 @@
 # CSharpSchulung
 
-Schulungszeiten:
-	Dauer: 5 Tage
+##### Schulungszeiten:
+    Dauer: 5 Tage
 	Online-Schulung
 	Erster Tag	09:00 - 16:00 Uhr
 	Folgetage	09:00 - 16:00 Uhr
