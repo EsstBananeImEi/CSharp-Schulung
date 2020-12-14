@@ -1,0 +1,13 @@
+C:\Projekte\csharpschulung\primzahlen\primzahlen\bin\Debug\netcoreapp3.1\primzahlen.exe
+C:\Projekte\csharpschulung\primzahlen\primzahlen\bin\Debug\netcoreapp3.1\primzahlen.deps.json
+C:\Projekte\csharpschulung\primzahlen\primzahlen\bin\Debug\netcoreapp3.1\primzahlen.runtimeconfig.json
+C:\Projekte\csharpschulung\primzahlen\primzahlen\bin\Debug\netcoreapp3.1\primzahlen.runtimeconfig.dev.json
+C:\Projekte\csharpschulung\primzahlen\primzahlen\bin\Debug\netcoreapp3.1\primzahlen.dll
+C:\Projekte\csharpschulung\primzahlen\primzahlen\bin\Debug\netcoreapp3.1\primzahlen.pdb
+C:\Projekte\csharpschulung\primzahlen\primzahlen\obj\Debug\netcoreapp3.1\primzahlen.csprojAssemblyReference.cache
+C:\Projekte\csharpschulung\primzahlen\primzahlen\obj\Debug\netcoreapp3.1\primzahlen.AssemblyInfoInputs.cache
+C:\Projekte\csharpschulung\primzahlen\primzahlen\obj\Debug\netcoreapp3.1\primzahlen.AssemblyInfo.cs
+C:\Projekte\csharpschulung\primzahlen\primzahlen\obj\Debug\netcoreapp3.1\primzahlen.csproj.CoreCompileInputs.cache
+C:\Projekte\csharpschulung\primzahlen\primzahlen\obj\Debug\netcoreapp3.1\primzahlen.dll
+C:\Projekte\csharpschulung\primzahlen\primzahlen\obj\Debug\netcoreapp3.1\primzahlen.pdb
+C:\Projekte\csharpschulung\primzahlen\primzahlen\obj\Debug\netcoreapp3.1\primzahlen.genruntimeconfig.cache
