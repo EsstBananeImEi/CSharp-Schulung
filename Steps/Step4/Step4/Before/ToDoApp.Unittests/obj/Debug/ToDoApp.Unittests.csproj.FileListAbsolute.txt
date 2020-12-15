@@ -1,0 +1,35 @@
+C:\Schulung\CSharp Komplett\Labs\Step4\Before\ToDoApp.Unittests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Schulung\CSharp Komplett\Labs\Step4\Before\ToDoApp.Unittests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Schulung\CSharp Komplett\Labs\Step4\Before\ToDoApp.Unittests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Schulung\CSharp Komplett\Labs\Step4\Before\ToDoApp.Unittests\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Schulung\CSharp Komplett\Labs\Step4\Before\ToDoApp.Unittests\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Schulung\CSharp Komplett\Labs\Step4\Before\ToDoApp.Unittests\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Schulung\CSharp Komplett\Labs\Step4\Before\ToDoApp.Unittests\bin\Debug\ToDoApp.Unittests.dll
+C:\Schulung\CSharp Komplett\Labs\Step4\Before\ToDoApp.Unittests\bin\Debug\ToDoApp.Unittests.pdb
+C:\Schulung\CSharp Komplett\Labs\Step4\Before\ToDoApp.Unittests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Schulung\CSharp Komplett\Labs\Step4\Before\ToDoApp.Unittests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Schulung\CSharp Komplett\Labs\Step4\Before\ToDoApp.Unittests\bin\Debug\ToDoApp.Business.dll
+C:\Schulung\CSharp Komplett\Labs\Step4\Before\ToDoApp.Unittests\bin\Debug\ToDoApp.Business.pdb
+C:\Schulung\CSharp Komplett\Labs\Step4\Before\ToDoApp.Unittests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Schulung\CSharp Komplett\Labs\Step4\Before\ToDoApp.Unittests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Schulung\CSharp Komplett\Labs\Step4\Before\ToDoApp.Unittests\obj\Debug\ToDoApp.Unittests.csprojAssemblyReference.cache
+C:\Schulung\CSharp Komplett\Labs\Step4\Before\ToDoApp.Unittests\obj\Debug\ToDoApp.Unittests.csproj.CoreCompileInputs.cache
+C:\Schulung\CSharp Komplett\Labs\Step4\Before\ToDoApp.Unittests\obj\Debug\ToDoApp.Unittests.csproj.CopyComplete
+C:\Schulung\CSharp Komplett\Labs\Step4\Before\ToDoApp.Unittests\obj\Debug\ToDoApp.Unittests.dll
+C:\Schulung\CSharp Komplett\Labs\Step4\Before\ToDoApp.Unittests\obj\Debug\ToDoApp.Unittests.pdb
+C:\Projekte\csharpschulung\Steps\Step4\Step4\Before\ToDoApp.Unittests\obj\Debug\ToDoApp.Unittests.csprojAssemblyReference.cache
+C:\Projekte\csharpschulung\Steps\Step4\Step4\Before\ToDoApp.Unittests\obj\Debug\ToDoApp.Unittests.csproj.CoreCompileInputs.cache
+C:\Projekte\csharpschulung\Steps\Step4\Step4\Before\ToDoApp.Unittests\obj\Debug\ToDoApp.Unittests.dll
+C:\Projekte\csharpschulung\Steps\Step4\Step4\Before\ToDoApp.Unittests\obj\Debug\ToDoApp.Unittests.pdb
+C:\Projekte\csharpschulung\Steps\Step4\Step4\Before\ToDoApp.Unittests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Projekte\csharpschulung\Steps\Step4\Step4\Before\ToDoApp.Unittests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Projekte\csharpschulung\Steps\Step4\Step4\Before\ToDoApp.Unittests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Projekte\csharpschulung\Steps\Step4\Step4\Before\ToDoApp.Unittests\bin\Debug\ToDoApp.Unittests.dll
+C:\Projekte\csharpschulung\Steps\Step4\Step4\Before\ToDoApp.Unittests\bin\Debug\ToDoApp.Unittests.pdb
+C:\Projekte\csharpschulung\Steps\Step4\Step4\Before\ToDoApp.Unittests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Projekte\csharpschulung\Steps\Step4\Step4\Before\ToDoApp.Unittests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Projekte\csharpschulung\Steps\Step4\Step4\Before\ToDoApp.Unittests\bin\Debug\ToDoApp.Business.dll
+C:\Projekte\csharpschulung\Steps\Step4\Step4\Before\ToDoApp.Unittests\bin\Debug\ToDoApp.Business.pdb
+C:\Projekte\csharpschulung\Steps\Step4\Step4\Before\ToDoApp.Unittests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Projekte\csharpschulung\Steps\Step4\Step4\Before\ToDoApp.Unittests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Projekte\csharpschulung\Steps\Step4\Step4\Before\ToDoApp.Unittests\obj\Debug\ToDoApp.Unittests.csproj.CopyComplete

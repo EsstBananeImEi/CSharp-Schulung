@@ -41,9 +41,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ToDoRepository.cs" />
+    <Compile Include="Models\ToDo.cs" />
+    <Compile Include="Models\ToDoCategory.cs" />
     <Compile Include="ToDoSystem.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Utility\Logging.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Models\ClassDiagram1.cd" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

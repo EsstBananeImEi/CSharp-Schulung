@@ -1,0 +1,40 @@
+C:\Schulung\CSharp Komplett\Labs\Step4\Before\ToDoApp.Client\bin\Debug\ToDoApp.Client.exe.config
+C:\Schulung\CSharp Komplett\Labs\Step4\Before\ToDoApp.Client\bin\Debug\ToDoApp.Client.exe
+C:\Schulung\CSharp Komplett\Labs\Step4\Before\ToDoApp.Client\bin\Debug\ToDoApp.Client.pdb
+C:\Schulung\CSharp Komplett\Labs\Step4\Before\ToDoApp.Client\bin\Debug\ToDoApp.Business.dll
+C:\Schulung\CSharp Komplett\Labs\Step4\Before\ToDoApp.Client\bin\Debug\ToDoApp.Business.pdb
+C:\Schulung\CSharp Komplett\Labs\Step4\Before\ToDoApp.Client\obj\Debug\ToDoApp.Client.csprojAssemblyReference.cache
+C:\Schulung\CSharp Komplett\Labs\Step4\Before\ToDoApp.Client\obj\Debug\MainView.g.cs
+C:\Schulung\CSharp Komplett\Labs\Step4\Before\ToDoApp.Client\obj\Debug\App.g.cs
+C:\Schulung\CSharp Komplett\Labs\Step4\Before\ToDoApp.Client\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Schulung\CSharp Komplett\Labs\Step4\Before\ToDoApp.Client\obj\Debug\ToDoApp.Client_MarkupCompile.cache
+C:\Schulung\CSharp Komplett\Labs\Step4\Before\ToDoApp.Client\obj\Debug\ToDoApp.Client_MarkupCompile.lref
+C:\Schulung\CSharp Komplett\Labs\Step4\Before\ToDoApp.Client\obj\Debug\App.baml
+C:\Schulung\CSharp Komplett\Labs\Step4\Before\ToDoApp.Client\obj\Debug\MainView.baml
+C:\Schulung\CSharp Komplett\Labs\Step4\Before\ToDoApp.Client\obj\Debug\ToDoApp.Client.g.resources
+C:\Schulung\CSharp Komplett\Labs\Step4\Before\ToDoApp.Client\obj\Debug\ToDoApp.Client.Properties.Resources.resources
+C:\Schulung\CSharp Komplett\Labs\Step4\Before\ToDoApp.Client\obj\Debug\ToDoApp.Client.csproj.GenerateResource.cache
+C:\Schulung\CSharp Komplett\Labs\Step4\Before\ToDoApp.Client\obj\Debug\ToDoApp.Client.csproj.CoreCompileInputs.cache
+C:\Schulung\CSharp Komplett\Labs\Step4\Before\ToDoApp.Client\obj\Debug\ToDoApp.Client.csproj.CopyComplete
+C:\Schulung\CSharp Komplett\Labs\Step4\Before\ToDoApp.Client\obj\Debug\ToDoApp.Client.exe
+C:\Schulung\CSharp Komplett\Labs\Step4\Before\ToDoApp.Client\obj\Debug\ToDoApp.Client.pdb
+C:\Projekte\csharpschulung\Steps\Step4\Step4\Before\ToDoApp.Client\obj\Debug\ToDoApp.Client.csprojAssemblyReference.cache
+C:\Projekte\csharpschulung\Steps\Step4\Step4\Before\ToDoApp.Client\obj\Debug\MainView.g.cs
+C:\Projekte\csharpschulung\Steps\Step4\Step4\Before\ToDoApp.Client\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Projekte\csharpschulung\Steps\Step4\Step4\Before\ToDoApp.Client\obj\Debug\ToDoApp.Client_MarkupCompile.cache
+C:\Projekte\csharpschulung\Steps\Step4\Step4\Before\ToDoApp.Client\obj\Debug\ToDoApp.Client_MarkupCompile.lref
+C:\Projekte\csharpschulung\Steps\Step4\Step4\Before\ToDoApp.Client\obj\Debug\ToDoApp.Client.exe
+C:\Projekte\csharpschulung\Steps\Step4\Step4\Before\ToDoApp.Client\obj\Debug\ToDoApp.Client.pdb
+C:\Projekte\csharpschulung\Steps\Step4\Step4\Before\ToDoApp.Client\bin\Debug\ToDoApp.Client.exe.config
+C:\Projekte\csharpschulung\Steps\Step4\Step4\Before\ToDoApp.Client\bin\Debug\ToDoApp.Client.exe
+C:\Projekte\csharpschulung\Steps\Step4\Step4\Before\ToDoApp.Client\bin\Debug\ToDoApp.Client.pdb
+C:\Projekte\csharpschulung\Steps\Step4\Step4\Before\ToDoApp.Client\bin\Debug\ToDoApp.Business.dll
+C:\Projekte\csharpschulung\Steps\Step4\Step4\Before\ToDoApp.Client\bin\Debug\ToDoApp.Business.pdb
+C:\Projekte\csharpschulung\Steps\Step4\Step4\Before\ToDoApp.Client\obj\Debug\App.g.cs
+C:\Projekte\csharpschulung\Steps\Step4\Step4\Before\ToDoApp.Client\obj\Debug\App.baml
+C:\Projekte\csharpschulung\Steps\Step4\Step4\Before\ToDoApp.Client\obj\Debug\MainView.baml
+C:\Projekte\csharpschulung\Steps\Step4\Step4\Before\ToDoApp.Client\obj\Debug\ToDoApp.Client.g.resources
+C:\Projekte\csharpschulung\Steps\Step4\Step4\Before\ToDoApp.Client\obj\Debug\ToDoApp.Client.Properties.Resources.resources
+C:\Projekte\csharpschulung\Steps\Step4\Step4\Before\ToDoApp.Client\obj\Debug\ToDoApp.Client.csproj.GenerateResource.cache
+C:\Projekte\csharpschulung\Steps\Step4\Step4\Before\ToDoApp.Client\obj\Debug\ToDoApp.Client.csproj.CoreCompileInputs.cache
+C:\Projekte\csharpschulung\Steps\Step4\Step4\Before\ToDoApp.Client\obj\Debug\ToDoApp.Client.csproj.CopyComplete
