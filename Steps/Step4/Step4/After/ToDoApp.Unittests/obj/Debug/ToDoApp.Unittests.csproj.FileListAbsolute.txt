@@ -1,0 +1,16 @@
+C:\Projekte\csharpschulung\Steps\Step4\Step4\After\ToDoApp.Unittests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Projekte\csharpschulung\Steps\Step4\Step4\After\ToDoApp.Unittests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Projekte\csharpschulung\Steps\Step4\Step4\After\ToDoApp.Unittests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Projekte\csharpschulung\Steps\Step4\Step4\After\ToDoApp.Unittests\bin\Debug\ToDoApp.Unittests.dll
+C:\Projekte\csharpschulung\Steps\Step4\Step4\After\ToDoApp.Unittests\bin\Debug\ToDoApp.Unittests.pdb
+C:\Projekte\csharpschulung\Steps\Step4\Step4\After\ToDoApp.Unittests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Projekte\csharpschulung\Steps\Step4\Step4\After\ToDoApp.Unittests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Projekte\csharpschulung\Steps\Step4\Step4\After\ToDoApp.Unittests\bin\Debug\ToDoApp.Business.dll
+C:\Projekte\csharpschulung\Steps\Step4\Step4\After\ToDoApp.Unittests\bin\Debug\ToDoApp.Business.pdb
+C:\Projekte\csharpschulung\Steps\Step4\Step4\After\ToDoApp.Unittests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Projekte\csharpschulung\Steps\Step4\Step4\After\ToDoApp.Unittests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Projekte\csharpschulung\Steps\Step4\Step4\After\ToDoApp.Unittests\obj\Debug\ToDoApp.Unittests.csprojAssemblyReference.cache
+C:\Projekte\csharpschulung\Steps\Step4\Step4\After\ToDoApp.Unittests\obj\Debug\ToDoApp.Unittests.csproj.CoreCompileInputs.cache
+C:\Projekte\csharpschulung\Steps\Step4\Step4\After\ToDoApp.Unittests\obj\Debug\ToDoApp.Unittests.csproj.CopyComplete
+C:\Projekte\csharpschulung\Steps\Step4\Step4\After\ToDoApp.Unittests\obj\Debug\ToDoApp.Unittests.dll
+C:\Projekte\csharpschulung\Steps\Step4\Step4\After\ToDoApp.Unittests\obj\Debug\ToDoApp.Unittests.pdb

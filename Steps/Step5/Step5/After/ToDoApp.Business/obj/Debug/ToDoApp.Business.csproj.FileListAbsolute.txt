@@ -1,0 +1,12 @@
+C:\Projekte\csharpschulung\Steps\Step5\Step5\After\ToDoApp.Business\bin\Debug\ToDoApp.Business.dll.config
+C:\Projekte\csharpschulung\Steps\Step5\Step5\After\ToDoApp.Business\bin\Debug\ToDoApp.Business.dll
+C:\Projekte\csharpschulung\Steps\Step5\Step5\After\ToDoApp.Business\bin\Debug\ToDoApp.Business.pdb
+C:\Projekte\csharpschulung\Steps\Step5\Step5\After\ToDoApp.Business\bin\Debug\EntityFramework.dll
+C:\Projekte\csharpschulung\Steps\Step5\Step5\After\ToDoApp.Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projekte\csharpschulung\Steps\Step5\Step5\After\ToDoApp.Business\bin\Debug\EntityFramework.xml
+C:\Projekte\csharpschulung\Steps\Step5\Step5\After\ToDoApp.Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projekte\csharpschulung\Steps\Step5\Step5\After\ToDoApp.Business\obj\Debug\ToDoApp.Business.csprojAssemblyReference.cache
+C:\Projekte\csharpschulung\Steps\Step5\Step5\After\ToDoApp.Business\obj\Debug\ToDoApp.Business.csproj.CoreCompileInputs.cache
+C:\Projekte\csharpschulung\Steps\Step5\Step5\After\ToDoApp.Business\obj\Debug\ToDoApp.Business.csproj.CopyComplete
+C:\Projekte\csharpschulung\Steps\Step5\Step5\After\ToDoApp.Business\obj\Debug\ToDoApp.Business.dll
+C:\Projekte\csharpschulung\Steps\Step5\Step5\After\ToDoApp.Business\obj\Debug\ToDoApp.Business.pdb

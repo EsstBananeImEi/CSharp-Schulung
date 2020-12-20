@@ -1,0 +1,5 @@
+C:\Projekte\csharpschulung\Steps\Step4\Step4\After\ToDoApp.Business\bin\Debug\ToDoApp.Business.dll
+C:\Projekte\csharpschulung\Steps\Step4\Step4\After\ToDoApp.Business\bin\Debug\ToDoApp.Business.pdb
+C:\Projekte\csharpschulung\Steps\Step4\Step4\After\ToDoApp.Business\obj\Debug\ToDoApp.Business.csproj.CoreCompileInputs.cache
+C:\Projekte\csharpschulung\Steps\Step4\Step4\After\ToDoApp.Business\obj\Debug\ToDoApp.Business.dll
+C:\Projekte\csharpschulung\Steps\Step4\Step4\After\ToDoApp.Business\obj\Debug\ToDoApp.Business.pdb

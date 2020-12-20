@@ -1,6 +1,164 @@
-14.12.2020-14:43:55 - ToDo-App gestartet...
-14.12.2020-14:43:55 - ToDo-App beendet...
-14.12.2020-14:44:07 - ToDo-App gestartet...
-14.12.2020-14:44:07 - ToDo-App beendet...
-14.12.2020-14:44:46 - ToDo-App gestartet...
-14.12.2020-14:44:46 - ToDo-App beendet...
+17.12.2020-11:06:36 - ToDo-App gestartet...
+17.12.2020-11:08:40 - ToDo-App beendet.
+17.12.2020-11:09:30 - ToDo-App gestartet...
+17.12.2020-11:09:44 - ToDo-App beendet.
+17.12.2020-11:11:19 - ToDo-App gestartet...
+17.12.2020-11:11:27 - Fehler: System.ArgumentNullException: Der Wert darf nicht NULL sein.
+Parametername: source
+   bei System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   bei ToDoApp.Business.ToDoRepositoryEDM.GetAll() in C:\Projekte\csharpschulung\Steps\Step6\Step6\Before\ToDoApp.Business\ToDoRepositoryEDM.cs:Zeile 20.
+   bei ToDoApp.Client.MainViewModel.Add(Object parameter) in C:\Projekte\csharpschulung\Steps\Step6\Step6\Before\ToDoApp.Client\MainViewModel.cs:Zeile 113.
+17.12.2020-11:11:33 - Fehler: System.ArgumentNullException: Der Wert darf nicht NULL sein.
+Parametername: source
+   bei System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   bei ToDoApp.Business.ToDoRepositoryEDM.GetAll() in C:\Projekte\csharpschulung\Steps\Step6\Step6\Before\ToDoApp.Business\ToDoRepositoryEDM.cs:Zeile 20.
+   bei ToDoApp.Client.MainViewModel.Add(Object parameter) in C:\Projekte\csharpschulung\Steps\Step6\Step6\Before\ToDoApp.Client\MainViewModel.cs:Zeile 113.
+17.12.2020-11:11:51 - Fehler: System.ArgumentNullException: Der Wert darf nicht NULL sein.
+Parametername: source
+   bei System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   bei ToDoApp.Business.ToDoRepositoryEDM.GetAll() in C:\Projekte\csharpschulung\Steps\Step6\Step6\Before\ToDoApp.Business\ToDoRepositoryEDM.cs:Zeile 20.
+   bei ToDoApp.Client.MainViewModel.Add(Object parameter) in C:\Projekte\csharpschulung\Steps\Step6\Step6\Before\ToDoApp.Client\MainViewModel.cs:Zeile 113.
+17.12.2020-11:12:01 - ToDo-App beendet.
+17.12.2020-11:13:49 - ToDo-App gestartet...
+17.12.2020-11:15:03 - ToDo-App beendet.
+17.12.2020-11:17:33 - ToDo-App gestartet...
+17.12.2020-11:19:02 - ToDo-App gestartet...
+17.12.2020-11:19:31 - ToDo-App beendet.
+17.12.2020-11:19:54 - ToDo-App gestartet...
+17.12.2020-11:20:09 - ToDo-App beendet.
+17.12.2020-11:20:13 - ToDo-App gestartet...
+17.12.2020-11:20:27 - ToDo-App beendet.
+17.12.2020-11:22:39 - ToDo-App gestartet...
+17.12.2020-11:23:33 - ToDo-App beendet.
+17.12.2020-11:40:18 - ToDo-App gestartet...
+17.12.2020-11:43:32 - ToDo-App gestartet...
+17.12.2020-11:43:59 - ToDo-App beendet.
+17.12.2020-11:44:36 - ToDo-App gestartet...
+17.12.2020-11:45:06 - ToDo-App beendet.
+17.12.2020-12:20:30 - ToDo-App gestartet...
+17.12.2020-12:24:25 - Fehler: System.ArgumentNullException: Der Wert darf nicht NULL sein.
+Parametername: entity
+   bei System.Data.Entity.Utilities.Check.NotNull[T](T value, String parameterName)
+   bei System.Data.Entity.DbSet`1.Remove(TEntity entity)
+   bei ToDoApp.Business.ToDoRepositoryEDM.Delete(ToDo myToDo) in C:\Projekte\csharpschulung\Steps\Step6\Step6\Before\ToDoApp.Business\ToDoRepositoryEDM.cs:Zeile 38.
+   bei ToDoApp.Client.MainViewModel.Delete(Object parameter) in C:\Projekte\csharpschulung\Steps\Step6\Step6\Before\ToDoApp.Client\MainViewModel.cs:Zeile 91.
+17.12.2020-12:24:38 - Fehler: System.ArgumentNullException: Der Wert darf nicht NULL sein.
+Parametername: entity
+   bei System.Data.Entity.Utilities.Check.NotNull[T](T value, String parameterName)
+   bei System.Data.Entity.DbSet`1.Remove(TEntity entity)
+   bei ToDoApp.Business.ToDoRepositoryEDM.Delete(ToDo myToDo) in C:\Projekte\csharpschulung\Steps\Step6\Step6\Before\ToDoApp.Business\ToDoRepositoryEDM.cs:Zeile 38.
+   bei ToDoApp.Client.MainViewModel.Delete(Object parameter) in C:\Projekte\csharpschulung\Steps\Step6\Step6\Before\ToDoApp.Client\MainViewModel.cs:Zeile 91.
+17.12.2020-12:24:45 - Fehler: System.ArgumentNullException: Der Wert darf nicht NULL sein.
+Parametername: entity
+   bei System.Data.Entity.Utilities.Check.NotNull[T](T value, String parameterName)
+   bei System.Data.Entity.DbSet`1.Remove(TEntity entity)
+   bei ToDoApp.Business.ToDoRepositoryEDM.Delete(ToDo myToDo) in C:\Projekte\csharpschulung\Steps\Step6\Step6\Before\ToDoApp.Business\ToDoRepositoryEDM.cs:Zeile 38.
+   bei ToDoApp.Client.MainViewModel.Delete(Object parameter) in C:\Projekte\csharpschulung\Steps\Step6\Step6\Before\ToDoApp.Client\MainViewModel.cs:Zeile 91.
+17.12.2020-12:24:50 - Fehler: System.ArgumentNullException: Der Wert darf nicht NULL sein.
+Parametername: entity
+   bei System.Data.Entity.Utilities.Check.NotNull[T](T value, String parameterName)
+   bei System.Data.Entity.DbSet`1.Remove(TEntity entity)
+   bei ToDoApp.Business.ToDoRepositoryEDM.Delete(ToDo myToDo) in C:\Projekte\csharpschulung\Steps\Step6\Step6\Before\ToDoApp.Business\ToDoRepositoryEDM.cs:Zeile 38.
+   bei ToDoApp.Client.MainViewModel.Delete(Object parameter) in C:\Projekte\csharpschulung\Steps\Step6\Step6\Before\ToDoApp.Client\MainViewModel.cs:Zeile 91.
+17.12.2020-12:25:44 - ToDo-App beendet.
+17.12.2020-15:39:16 - ToDo-App gestartet...
+17.12.2020-15:39:28 - ToDo-App beendet.
+17.12.2020-15:40:26 - ToDo-App gestartet...
+17.12.2020-15:42:19 - ToDo-App beendet.
+17.12.2020-15:48:46 - ToDo-App gestartet...
+17.12.2020-15:50:18 - ToDo-App gestartet...
+17.12.2020-15:50:41 - ToDo-App beendet.
+18.12.2020-09:26:27 - ToDo-App gestartet...
+18.12.2020-09:27:12 - Fehler: System.ArgumentNullException: Der Wert darf nicht NULL sein.
+Parametername: entity
+   bei System.Data.Entity.Utilities.Check.NotNull[T](T value, String parameterName)
+   bei System.Data.Entity.DbSet`1.Remove(TEntity entity)
+   bei ToDoApp.Business.ToDoRepositoryEDM.Delete(ToDo myToDo) in C:\Projekte\csharpschulung\Steps\Step6\Step6\Before\ToDoApp.Business\ToDoRepositoryEDM.cs:Zeile 64.
+   bei ToDoApp.Client.MainViewModel.Delete(Object parameter) in C:\Projekte\csharpschulung\TODO_APP\ToDoApp.Client\MainViewModel.cs:Zeile 94.
+18.12.2020-09:27:25 - ToDo-App beendet.
+18.12.2020-09:31:48 - ToDo-App gestartet...
+18.12.2020-09:31:53 - ToDo-App beendet.
+18.12.2020-11:34:09 - ToDo-App gestartet...
+18.12.2020-11:34:17 - ToDo-App beendet.
+18.12.2020-11:35:08 - ToDo-App gestartet...
+18.12.2020-11:35:32 - ToDo-App beendet.
+18.12.2020-11:35:46 - ToDo-App gestartet...
+18.12.2020-11:36:11 - ToDo-App beendet.
+18.12.2020-11:36:55 - ToDo-App gestartet...
+18.12.2020-11:37:03 - ToDo-App beendet.
+18.12.2020-11:46:35 - ToDo-App gestartet...
+18.12.2020-11:48:03 - ToDo-App beendet.
+18.12.2020-11:49:50 - ToDo-App gestartet...
+18.12.2020-11:49:59 - ToDo-App beendet.
+18.12.2020-11:50:04 - ToDo-App gestartet...
+18.12.2020-11:50:08 - Fehler: System.ArgumentNullException: Der Wert darf nicht NULL sein.
+Parametername: entity
+   bei System.Data.Entity.Utilities.Check.NotNull[T](T value, String parameterName)
+   bei System.Data.Entity.DbSet`1.Remove(TEntity entity)
+   bei ToDoApp.Business.ToDoRepositoryEDM.Delete(ToDo myToDo) in C:\Projekte\csharpschulung\Steps\Step6\Step6\Before\ToDoApp.Business\ToDoRepositoryEDM.cs:Zeile 64.
+   bei ToDoApp.Client.MainViewModel.Delete(Object parameter) in C:\Projekte\csharpschulung\TODO_APP\ToDoApp.Client\MainViewModel.cs:Zeile 99.
+18.12.2020-11:52:18 - ToDo-App gestartet...
+18.12.2020-11:53:02 - ToDo-App gestartet...
+18.12.2020-11:56:08 - ToDo-App gestartet...
+18.12.2020-11:59:45 - ToDo-App gestartet...
+18.12.2020-12:00:50 - ToDo-App gestartet...
+18.12.2020-12:00:56 - Fehler: System.ArgumentException: Ein Element mit dem gleichen Schlüssel wurde bereits hinzugefügt.
+   bei System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   bei System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   bei System.Data.Entity.Core.Objects.ObjectStateManager.AddEntityEntryToDictionary(EntityEntry entry, EntityState state)
+   bei System.Data.Entity.Core.Objects.ObjectStateManager.AddEntry(IEntityWrapper wrappedObject, EntityKey passedKey, EntitySet entitySet, String argumentName, Boolean isAdded)
+   bei System.Data.Entity.Core.Common.Internal.Materialization.Shaper.HandleEntityAppendOnly[TEntity](Func`2 constructEntityDelegate, EntityKey entityKey, EntitySet entitySet)
+   bei lambda_method(Closure , Shaper )
+   bei System.Data.Entity.Core.Common.Internal.Materialization.Coordinator`1.ReadNextElement(Shaper shaper)
+   bei System.Data.Entity.Core.Common.Internal.Materialization.Shaper`1.SimpleEnumerator.<MoveNextAsync>d__10.MoveNext()
+--- Ende der Stapelüberwachung vom vorhergehenden Ort, an dem die Ausnahme ausgelöst wurde ---
+   bei System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bei System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bei System.Data.Entity.Internal.LazyAsyncEnumerator`1.<FirstMoveNextAsync>d__9.MoveNext()
+--- Ende der Stapelüberwachung vom vorhergehenden Ort, an dem die Ausnahme ausgelöst wurde ---
+   bei System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bei System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bei System.Data.Entity.Infrastructure.IDbAsyncEnumerableExtensions.<ForEachAsync>d__2`1.MoveNext()
+--- Ende der Stapelüberwachung vom vorhergehenden Ort, an dem die Ausnahme ausgelöst wurde ---
+   bei System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bei System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bei System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   bei ToDoApp.Client.MainViewModel.<GetList>d__39.MoveNext() in C:\Projekte\csharpschulung\TODO_APP\ToDoApp.Client\MainViewModel.cs:Zeile 144.
+--- Ende der Stapelüberwachung vom vorhergehenden Ort, an dem die Ausnahme ausgelöst wurde ---
+   bei System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bei System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bei System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   bei ToDoApp.Client.MainViewModel.<Search>d__35.MoveNext() in C:\Projekte\csharpschulung\TODO_APP\ToDoApp.Client\MainViewModel.cs:Zeile 78.
+18.12.2020-12:00:56 - Fehler: System.ArgumentException: Ein Element mit dem gleichen Schlüssel wurde bereits hinzugefügt.
+   bei System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   bei System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   bei System.Data.Entity.Core.Objects.ObjectStateManager.AddStateManagerTypeMetadata(EntitySet entitySet, ObjectTypeMapping mapping)
+   bei System.Data.Entity.Core.Objects.ObjectStateManager.GetOrAddStateManagerTypeMetadata(Type entityType, EntitySet entitySet)
+   bei System.Data.Entity.Core.Objects.ObjectStateManager.AddEntry(IEntityWrapper wrappedObject, EntityKey passedKey, EntitySet entitySet, String argumentName, Boolean isAdded)
+   bei System.Data.Entity.Core.Common.Internal.Materialization.Shaper.HandleEntityAppendOnly[TEntity](Func`2 constructEntityDelegate, EntityKey entityKey, EntitySet entitySet)
+   bei lambda_method(Closure , Shaper )
+   bei System.Data.Entity.Core.Common.Internal.Materialization.Coordinator`1.ReadNextElement(Shaper shaper)
+   bei System.Data.Entity.Core.Common.Internal.Materialization.Shaper`1.SimpleEnumerator.<MoveNextAsync>d__10.MoveNext()
+--- Ende der Stapelüberwachung vom vorhergehenden Ort, an dem die Ausnahme ausgelöst wurde ---
+   bei System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bei System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bei System.Data.Entity.Internal.LazyAsyncEnumerator`1.<FirstMoveNextAsync>d__9.MoveNext()
+--- Ende der Stapelüberwachung vom vorhergehenden Ort, an dem die Ausnahme ausgelöst wurde ---
+   bei System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bei System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bei System.Data.Entity.Infrastructure.IDbAsyncEnumerableExtensions.<ForEachAsync>d__2`1.MoveNext()
+--- Ende der Stapelüberwachung vom vorhergehenden Ort, an dem die Ausnahme ausgelöst wurde ---
+   bei System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bei System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bei System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   bei ToDoApp.Client.MainViewModel.<GetList>d__39.MoveNext() in C:\Projekte\csharpschulung\TODO_APP\ToDoApp.Client\MainViewModel.cs:Zeile 144.
+--- Ende der Stapelüberwachung vom vorhergehenden Ort, an dem die Ausnahme ausgelöst wurde ---
+   bei System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   bei System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bei System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   bei ToDoApp.Client.MainViewModel.<Search>d__35.MoveNext() in C:\Projekte\csharpschulung\TODO_APP\ToDoApp.Client\MainViewModel.cs:Zeile 78.
+18.12.2020-12:01:01 - ToDo-App beendet.
+18.12.2020-12:01:06 - ToDo-App gestartet...
+18.12.2020-12:01:31 - ToDo-App gestartet...
+18.12.2020-14:25:46 - ToDo-App gestartet...
+18.12.2020-14:25:58 - ToDo-App beendet.

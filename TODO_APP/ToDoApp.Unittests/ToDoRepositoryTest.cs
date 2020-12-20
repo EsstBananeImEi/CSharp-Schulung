@@ -1,70 +1,57 @@
-﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using System;
+﻿using System;
 using System.Collections.Generic;
-using System.Text;
+using System.Linq;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
+using ToDoApp.Business;
 
 namespace ToDoApp.Unittests
 {
-    /// <summary>
-    /// Summary description for UnitTest1
-    /// </summary>
     [TestClass]
     public class ToDoRepositoryTest
     {
-        public ToDoRepositoryTest()
+        [TestMethod]
+        public void ToDoRepository_GetAll_Testcase1()
         {
-            //
-            // TODO: Add constructor logic here
-            //
+            ToDoRepository myRepository = new ToDoRepository();
+
+            IQueryable<ToDo> myResult = myRepository.GetAll();
+
+            Assert.AreEqual(0, myResult);
         }
-
-        private TestContext testContextInstance;
-
-        /// <summary>
-        ///Gets or sets the test context which provides
-        ///information about and functionality for the current test run.
-        ///</summary>
-        public TestContext TestContext
-        {
-            get
-            {
-                return testContextInstance;
-            }
-            set
-            {
-                testContextInstance = value;
-            }
-        }
-
-        #region Additional test attributes
-        //
-        // You can use the following additional attributes as you write your tests:
-        //
-        // Use ClassInitialize to run code before running the first test in the class
-        // [ClassInitialize()]
-        // public static void MyClassInitialize(TestContext testContext) { }
-        //
-        // Use ClassCleanup to run code after all tests in a class have run
-        // [ClassCleanup()]
-        // public static void MyClassCleanup() { }
-        //
-        // Use TestInitialize to run code before running each test 
-        // [TestInitialize()]
-        // public void MyTestInitialize() { }
-        //
-        // Use TestCleanup to run code after each test has run
-        // [TestCleanup()]
-        // public void MyTestCleanup() { }
-        //
-        #endregion
 
         [TestMethod]
-        public void ToDoSystem_GetAll_Return()
+        public void ToDoRepository_Create_Testcase1()
         {
-            //
-            // TODO: Tests noch Schreiben
-            //
+            ToDoRepository myRepository = new ToDoRepository();
 
+            ToDo myResult = myRepository.Create(); ;
+
+            Assert.AreEqual(1, myResult.ID);
+            Assert.AreEqual("Neue Aufgabe", myResult.Title);
+        }
+
+        [TestMethod]
+        public void ToDoRepository_Update_Testcase1()
+        {
+            ToDoRepository myRepository = new ToDoRepository();
+            ToDo myTestToDo = myRepository.Create();
+            myTestToDo.Title = "Test1";
+                        
+            myRepository.Update(myTestToDo);
+
+            Assert.AreEqual("Test1", myTestToDo.Title);
+        }
+
+        [TestMethod]
+        public void ToDoRepository_Delete_Testcase1()
+        {
+            ToDoRepository myRepository = new ToDoRepository();
+            ToDo myTestToDo = myRepository.Create();
+            myTestToDo.Title = "Test1";
+
+            myRepository.Delete(myTestToDo);
+
+            Assert.AreEqual(0, myRepository.GetAll());
         }
     }
 }
